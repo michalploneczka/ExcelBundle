@@ -12,7 +12,12 @@
             "homepage": "https://github.com/liuggio/ExcelBundle#contributors"
         }
     ],
-
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:michalploneczka/PHPExcel.git"
+        }
+    ],
     "keywords": ["xls","Excel", "symfony2", "bundle"],
     "homepage": "http://www.welcometothebundle.com",
     "license": "MIT",
